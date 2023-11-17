@@ -12,9 +12,9 @@ Features:
 Installation:
 To run this project, you need to install the required dependencies. Clone this repository and install the dependencies using the following commands:
 
-git clone <https://github.com/arnavc16/Lung_Cancer_Detection>
-cd <Lung_Cancer_Detection>
-pip install -r requirements.txt
+- git clone <https://github.com/arnavc16/Lung_Cancer_Detection>
+- cd <Lung_Cancer_Detection>
+- pip install -r requirements.txt
 
 Usage:
 To start the Flask web application, run:
