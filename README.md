@@ -1,4 +1,4 @@
-Lung Cancer Detection Using Transfer Learning
+**Lung Cancer Detection Using Transfer Learning**
 
 Project Overview:
 This project implements a deep learning model for detecting lung cancer from histopathological images using transfer learning. Leveraging the power of TensorFlow and Keras with a pre-trained InceptionV3 model, the project aims to classify images into different categories indicating the presence or absence of lung cancer.
