@@ -21,7 +21,8 @@ To start the Flask web application, run:
 
 python app.py
 
-Navigate to http://127.0.0.1:5000/ in your web browser. Upload a lung histopathological image and receive the model's prediction.
+1. Navigate to http://127.0.0.1:5000/ in your web browser.
+2. Upload a lung histopathological image and receive the model's prediction.
 
 Model Training:
 Details about the model training process are as follows:
